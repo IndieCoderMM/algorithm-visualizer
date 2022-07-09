@@ -6,4 +6,6 @@ This visualizer can illustrate the process of various **Sorting Algorithms**:
 2. Selection Sort
 3. Insertion Sort
 
-![Demo 1](https://raw.githubusercontent.com/IndieCoderMM/git-cloud/master/images/sort-demo1.png?token=GHSAT0AAAAAABTQ34LG5I7NUZ4ETJJQCVTCYWJWVFA)
+![Demo 1](https://github.com/IndieCoderMM/git-cloud/blob/master/images/sort-demo1.png)
+![Demo 2](https://github.com/IndieCoderMM/git-cloud/blob/master/images/sort-demo2.png)
+![Demo 3](https://github.com/IndieCoderMM/git-cloud/blob/master/images/sort-demo3.png)
